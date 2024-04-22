@@ -1,0 +1,14 @@
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\bin\Debug\net8.0\trabalhodevideo.exe
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\bin\Debug\net8.0\trabalhodevideo.deps.json
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\bin\Debug\net8.0\trabalhodevideo.runtimeconfig.json
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\bin\Debug\net8.0\trabalhodevideo.dll
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\bin\Debug\net8.0\trabalhodevideo.pdb
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.AssemblyInfoInputs.cache
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.AssemblyInfo.cs
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.csproj.CoreCompileInputs.cache
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.dll
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\refint\trabalhodevideo.dll
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.pdb
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\trabalhodevideo.genruntimeconfig.cache
+c:\Users\COMPRAS & LICITAÇÕES\trabalhodevideo\obj\Debug\net8.0\ref\trabalhodevideo.dll
