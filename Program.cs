@@ -6,26 +6,26 @@ class Program
     {
         do
         {
-            // Solicita o nome da pessoa
+            // Aqui é solicitado o nome da pessoa
             Console.Write("Digite o nome da pessoa: ");
             string nome = Console.ReadLine();
 
-            // Solicita a idade da pessoa
+            // Aqui é solicitado a idade da pessoa
             Console.Write("Digite a idade da pessoa: ");
             int idade = int.Parse(Console.ReadLine());
 
-            // Solicita a altura da pessoa em metros
+            // Aqui é solicitado a altura da pessoa em metros
             Console.Write("Digite a altura da pessoa em metros: ");
             double altura = double.Parse(Console.ReadLine());
 
-            // Solicita o peso da pessoa em quilogramas
+            // Aqi é solicitado o peso da pessoa em quilogramas
             Console.Write("Digite o peso da pessoa em quilogramas: ");
             double peso = double.Parse(Console.ReadLine());
 
-            // Calcula o IMC
+            // Calculo do IMC
             double imc = peso / (altura * altura);
 
-            // Determina a categoria de IMC
+            // Determinando a categoria de IMC
             string categoriaIMC;
             if (imc < 18.5)
                 categoriaIMC = "Abaixo do peso";
@@ -36,7 +36,7 @@ class Program
             else
                 categoriaIMC = "Obeso";
 
-            // Determina a faixa etária da pessoa
+            // Determinando a faixa etária da pessoa
             string faixaEtaria;
             if (idade <= 12)
                 faixaEtaria = "Criança";
@@ -47,7 +47,7 @@ class Program
             else
                 faixaEtaria = "Idoso";
 
-            // Imprime o relatório final
+            // Mostra o relatório final
             Console.WriteLine("\nRelatório:");
             Console.WriteLine($"Nome: {nome}");
             Console.WriteLine($"Idade: {idade} anos");
